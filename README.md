@@ -4,9 +4,22 @@ Este é um projeto acadêmico desenvolvido como parte das atividades do curso de
 
 ## 🖥️ Sobre o Projeto
 
+Este é um sistema simples para gerenciamento de uma concessionária de veículos, com funcionalidades para gerenciar clientes e veículos, incluindo cadastro, atualização, busca, remoção e até venda de veículos. O sistema também permite salvar e carregar os dados de clientes e veículos a partir de um arquivo.
+
+### Alunos:
+- Emmanuel Guerra Maranhão
+- Leonardo Antonio Da Silva
+
+### Curso:
+- Análise e Desenvolvimento de Sistemas
+
+### Período:
+- 1º Período, ADS (Manhã), 2024.2
+
+## 🖥️ Funcionalidades
+
 O **Sistema de Venda de Veículos** é uma aplicação que permite gerenciar informações de clientes e veículos, incluindo funcionalidades de cadastro, atualização, busca e venda. O sistema também oferece persistência de dados, salvando e carregando informações de um arquivo.
 
-### Funcionalidades:
 - **Gestão de Clientes**:
   - Cadastro, atualização, busca e remoção de clientes.
   
